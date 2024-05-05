@@ -8,7 +8,6 @@ return {
 		"williamboman/mason-lspconfig.nvim",
 	},
 	setup = {
-		-- example to setup with typescript.nvim
 		prismals = function(_, opts)
 			require("prismals").setup({ server = opts })
 			return true
