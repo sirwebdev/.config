@@ -16,6 +16,9 @@ return {
 				"sql",
 				"yaml",
 				"prisma",
+				"angular",
+				"lua",
+				"html",
 			},
 
 			-- matchup = {
